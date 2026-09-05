@@ -10,7 +10,6 @@ class Program
 
         int guess = -1;
 
-        Console.WriteLine($"What is the magic number? {number}");
         
         while (guess != number)
         {
