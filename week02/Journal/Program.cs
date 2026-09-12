@@ -1,5 +1,7 @@
 using System;
 
+// I added a function that shows you the journal statistics such as the total entries and total words in the loaded journal.
+
 class Program
 {
     static void Main(string[] args)
